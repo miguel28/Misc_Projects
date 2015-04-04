@@ -1,0 +1,32 @@
+# Project: PLC State Viewer
+# Makefile created by Dev-C++ 4.9.9.2
+
+CPP  = g++
+CC   = gcc
+WINDRES = windres.exe
+RES  = 
+OBJ  = main.o USBInterfaceClass.o $(RES)
+LINKOBJ  = main.o USBInterfaceClass.o $(RES)
+LIBS =  
+INCS =  
+CXXINCS =  
+CXXFLAGS = $(CXXINCS)   -mms-bitfields
+CFLAGS = $(INCS)   -mms-bitfields
+RM = rm -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before "PLC State Viewer.bin" all-after
+
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o "PLC State Viewer.bin" $(LIBS)
+
+main.o: main.cpp
+	$(CPP) -c main.cpp -o main.o $(CXXFLAGS)
+
+USBInterfaceClass.o: USBInterfaceClass.cpp
+	$(CPP) -c USBInterfaceClass.cpp -o USBInterfaceClass.o $(CXXFLAGS)

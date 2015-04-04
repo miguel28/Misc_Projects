@@ -1,0 +1,51 @@
+TSerie de una rifa
+v7
+r0
+t328829996.009773
+cCheck dependencies
+cCompileC "build/Serie de una rifa.build/Debug/Serie de una rifa.build/Objects-normal/x86_64/main.o" "/Users/miguelsilva/Desktop/Proyectos/Serie de una rifa/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Users/miguelsilva/Desktop/Proyectos/Serie de una rifa/build/Debug/Serie de una rifa
+t2
+s0
+
+N/Users/miguelsilva/Desktop/Proyectos/Serie de una rifa/build/Serie de una rifa.build/Debug/Serie de una rifa.build/Objects-normal/x86_64/Serie de una rifa.LinkFileList
+c000000004DE954AB0000000000000090
+t1307137195
+s144
+
+N/Users/miguelsilva/Desktop/Proyectos/Serie de una rifa/build/Serie de una rifa.build/Debug/Serie de una rifa.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/miguelsilva/Desktop/Proyectos/Serie de una rifa/main.cpp
+c000000004DE954AB00000000000001D2
+t1307137195
+s466
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies328829995#328829995#0(0"0(0#1#0"31525334837231728#0"0#
+
+CCompileC "build/Serie de una rifa.build/Debug/Serie de una rifa.build/Objects-normal/x86_64/main.o" "/Users/miguelsilva/Desktop/Proyectos/Serie de una rifa/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s328829995.966205
+e328829996.009694
+r0
+xCompileC
+xbuild/Serie de una rifa.build/Debug/Serie de una rifa.build/Objects-normal/x86_64/main.o
+x/Users/miguelsilva/Desktop/Proyectos/Serie de una rifa/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/miguelsilva/Desktop/Proyectos/Serie de una rifa/main.cpp328829995#328829996#0(634"/Users/miguelsilva/Desktop/Proyectos/Serie de una rifa/main.cpp: In function 'int main(int, char* const*)':/Users/miguelsilva/Desktop/Proyectos/Serie de una rifa/main.cpp:10: error: stray '#' in program/Users/miguelsilva/Desktop/Proyectos/Serie de una rifa/main.cpp:10: error: stray '#' in program/Users/miguelsilva/Desktop/Proyectos/Serie de una rifa/main.cpp:10: error: stray '#' in program/Users/miguelsilva/Desktop/Proyectos/Serie de una rifa/main.cpp:10: error: 'condition' was not declared in this scope/Users/miguelsilva/Desktop/Proyectos/Serie de una rifa/main.cpp:10: error: expected primary-expression before ';' token5(4@20"Stray '#' in program328829996#108#96#0(6@63"/Users/miguelsilva/Desktop/Proyectos/Serie de una rifa/main.cpp328829995#10#0#10#0#20"stray '*' in program0(4@20"Stray '#' in program328829996#204#96#0(6@63"/Users/miguelsilva/Desktop/Proyectos/Serie de una rifa/main.cpp328829995#10#0#10#0#20"stray '*' in program0(4@20"Stray '#' in program328829996#300#96#0(6@63"/Users/miguelsilva/Desktop/Proyectos/Serie de una rifa/main.cpp328829995#10#0#10#0#20"stray '*' in program0(4@42"'condition' was not declared in this scope328829996#396#118#0(6@63"/Users/miguelsilva/Desktop/Proyectos/Serie de una rifa/main.cpp328829995#10#0#10#0#34"'*' was not declared in this scope0(4@44"Expected primary-expression before ';' token328829996#514#120#0(6@63"/Users/miguelsilva/Desktop/Proyectos/Serie de una rifa/main.cpp328829995#10#0#10#0#19"expected * before *0(0#0#63"/Users/miguelsilva/Desktop/Proyectos/Serie de una rifa/main.cpp5705889669690254336#1669"    cd "/Users/miguelsilva/Desktop/Proyectos/Serie de una rifa"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/miguelsilva/Desktop/Proyectos/Serie de una rifa/build/Serie de una rifa.build/Debug/Serie de una rifa.build/Serie de una rifa-generated-files.hmap" "-I/Users/miguelsilva/Desktop/Proyectos/Serie de una rifa/build/Serie de una rifa.build/Debug/Serie de una rifa.build/Serie de una rifa-own-target-headers.hmap" "-I/Users/miguelsilva/Desktop/Proyectos/Serie de una rifa/build/Serie de una rifa.build/Debug/Serie de una rifa.build/Serie de una rifa-all-target-headers.hmap" -iquote "/Users/miguelsilva/Desktop/Proyectos/Serie de una rifa/build/Serie de una rifa.build/Debug/Serie de una rifa.build/Serie de una rifa-project-headers.hmap" "-F/Users/miguelsilva/Desktop/Proyectos/Serie de una rifa/build/Debug" "-I/Users/miguelsilva/Desktop/Proyectos/Serie de una rifa/build/Debug/include" "-I/Users/miguelsilva/Desktop/Proyectos/Serie de una rifa/build/Serie de una rifa.build/Debug/Serie de una rifa.build/DerivedSources/x86_64" "-I/Users/miguelsilva/Desktop/Proyectos/Serie de una rifa/build/Serie de una rifa.build/Debug/Serie de una rifa.build/DerivedSources" -c "/Users/miguelsilva/Desktop/Proyectos/Serie de una rifa/main.cpp" -o "/Users/miguelsilva/Desktop/Proyectos/Serie de una rifa/build/Serie de una rifa.build/Debug/Serie de una rifa.build/Objects-normal/x86_64/main.o"1#
+
+CLd "/Users/miguelsilva/Desktop/Proyectos/Serie de una rifa/build/Debug/Serie de una rifa" normal x86_64
+r0
+
